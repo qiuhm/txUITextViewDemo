@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "txMainViewController.h"
 
 @interface txAppDelegate : UIResponder <UIApplicationDelegate>
 
